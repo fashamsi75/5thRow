@@ -1,2 +1,2 @@
-# 5thRow
-This is Saylani DataScience Class. In this class we are learning git.
+# Saylani AI & DS Batch 2
+This is all about our Saylani AI & Data Science Course.
